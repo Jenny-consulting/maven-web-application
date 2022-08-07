@@ -96,13 +96,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://3.99.154.180:8081/repository/visa-debit-project-release/</url>
+	      <url>http://3.99.162.247:8081/repository/ebay-bts-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.99.154.180:8081/repository/visa-debit-project-snapshot/</url>
+	      <url>http://3.99.162.247:8081/repository/ebay-bts-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
